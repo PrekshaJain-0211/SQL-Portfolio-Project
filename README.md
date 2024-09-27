@@ -1,6 +1,6 @@
 This project focuses on Data Cleaning and Exploratory Data Analysis (EDA) using SQL on Company Layoffs dataset.
 
-Dataset taken from Kaggle: [https://www.kaggle.com/datasets/swaptr/layoffs-2022](url)
+Dataset taken from Kaggle: https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
 # **About The Table** :
 -The table contains the following columns:
